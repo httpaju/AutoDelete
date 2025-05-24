@@ -1,6 +1,6 @@
 # AutoDelete
 Telegram bot to delete messages after specific time 
-[![AutoDelete](https://te.legra.ph/file/e0e4b5df761aa6e9916b2.png)](https://github.com/arun017s/AutoDelete)
+[![AutoDelete](https://te.legra.ph/file/e0e4b5df761aa6e9916b2.png)](https://github.com/httpaju/AutoDelete)
 
 ## Variables
 1. `API_ID` : Get from [my.telegram.org](https://my.telegram.org)
@@ -28,7 +28,7 @@ You can fork and deploy this bot on any server (Render, Koyeb, Railway, Heroku..
 
 <details><summary>Koyeb</summary>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/arun017s/AutoDelete">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/httpaju/AutoDelete">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
 </a>
 <br>
@@ -36,7 +36,7 @@ Remember to create variables</details>
 
 <details><summary>Railway</summary>
 <br>
-<a href="https://railway.app/new/template/mYFm9G?referralCode=Dxh7zU">
+<a href="https://railway.com/template/AGkoNE?referralCode=SO5gwj">
   <img src="https://railway.app/button.svg" alt="deploy-to-railway">
 </a>
 <br>
@@ -46,7 +46,7 @@ Remember to deploy the latest version</details>
 <summary>VPS</summary>
 Install latest version of <a href="python.org">Python</a>
 Create variables approximately 
-<pre>git clone https://github.com/arun017s/AutoDelete
+<pre>git clone https://github.com/httpaju/AutoDelete
 cd AutoDelete
 pip3 install -r requirements.txt
 python3 main.py<pre>
@@ -64,7 +64,7 @@ Join in our Support Group for help & feedback
 
 ## Disclaimer
 [![GNU General Public License v3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/150px-GPLv3_Logo.svg.png)](https://www.gnu.org/licenses/gpl-3.0.html)    
-Licensed under [GNU GPL v3.0](https://github.com/arun017s/AutoDelete/blob/main/LICENSE)<br>
+Licensed under [GNU GPL v3.0](https://github.com/httpaju/AutoDelete/blob/main/LICENSE)<br>
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
