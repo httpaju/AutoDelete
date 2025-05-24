@@ -17,12 +17,11 @@
 #=========================================================================
 
 import asyncio 
-from .info import * 
+from . import * 
 from time import time 
-from .database import *
 from pyrogram import Client, idle 
 #-------------------------------------------------------------------------------
-bot = Client("auto-delete-bot",
+bot = Client("auto-delete-bot-2",
           api_id=API_ID,
           api_hash=API_HASH,
           bot_token=BOT_TOKEN)
@@ -48,4 +47,4 @@ async def run_check_up():
            await asyncio.sleep(1)
     
 if __name__=="__main__":   
-   asyncio.run(run_check_up())
+   asyncio.get_event_loop().run_until_complete(run_check_up())
