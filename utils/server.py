@@ -1,6 +1,6 @@
 #=========================================================================
 # [AutoDelete - Telegram bot to delete messages after specific time]      
-# Copyright (C) 2022 Arunkumar Shibu                       
+# Copyright (C) 2025 Ajmal                    
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
@@ -22,7 +22,7 @@ app = Flask(__name__)
 
 @app.route("/")
 async def route():
-    return "<h1>Check <a href='https://github.com/arun017s/AutoDelete'>AutoDelete</a></h1>"
+    return "<h1>Check <a href='https://github.com/httpaju/AutoDelete'>AutoDelete</a></h1>"
 
 if __name__ == "__main__":     
    app.run()
